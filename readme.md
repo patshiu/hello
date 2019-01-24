@@ -1,4 +1,4 @@
-# Hello Class
+# Hello PSAM 1028 Students
 
 1. Download [this sketch file](https://www.dropbox.com/sh/33uiqskjt3iscz9/AADMAyFJdYKdyE6tHjNKRNnMa?dl=0)
 
