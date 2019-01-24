@@ -1,0 +1,84 @@
+/* ==========================================================================
+ Your custom styles
+ ========================================================================== */
+/* Import special font */
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+
+ body {
+   background-color: white;
+   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+ }
+
+.page-container {
+   width: 100%;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   background-color: white;
+ }
+
+/*  HELLO STICKER SECTION
+---------------------------------*/
+.hello-sticker {
+   width: 600px;
+   height: 400px;
+   background-color: red;
+   margin: 60px;
+   text-align: center;
+   border-radius: 60px;
+   align-content: stretch;
+ }
+
+ .hello-sticker h1 {
+   color: white;
+   font-size: 5.5rem;
+   margin-top: 0;
+   margin-bottom: 0;
+ }
+
+ .hello-sticker h5 {
+   color: white;
+   font-size: 1.8rem;
+   text-transform: uppercase;
+   margin-top: 0;
+   margin-bottom: 1.2rem;
+ }
+ .name-area {
+   background-color: white;
+   margin-bottom: 20px;
+   height: 50%;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+ }
+
+ .hello-sticker h2 {
+   color: black;
+   font-size: 5rem;
+   margin: 0;
+   font-family: 'Permanent Marker', cursive;
+   line-height: 4rem;
+ }
+
+ /*  MORE ABOUT ME SECTION
+ ---------------------------------*/
+.more-about-me {
+  width: 600px;
+  background-color: transparent;
+}
+.more-about-me h5 {
+  color: black;
+  font-weight: bold;
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+.more-about-me p {
+  font-size: 1.2rem;
+}
+/* ul -- Unordered List  */
+/* ol -- Ordered List  */
+/* li -- List Item  */
+.more-about-me ul li {
+  font-size: 1.2rem;
+}
